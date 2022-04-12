@@ -11,4 +11,10 @@ Users can also share and discuss their experiences in a blog.
 This project is a starting point for a Swift application.
 
 
-[online documentation](https://nodejs.org/en/docs/)
+A few resources to get you started if this is your first Swift project:
+
+[Introduction to Swift](https://developer.apple.com/swift/)
+
+For help getting started with Swift, view our
+[online documentation](https://developer.apple.com/documentation/swift)
+
